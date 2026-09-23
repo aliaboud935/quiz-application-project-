@@ -1,0 +1,38 @@
+{ 
+  "Math": [
+    {"question": "What is 15% of 200?", "options": ["15", "30", "45", "20"], "answer": 1},
+    {"question": "What is 7! / 5! ?", "options": ["7", "21", "42", "35"], "answer": 2},
+    {"question": "Sum of angles in a triangle?", "options": ["90", "180", "270", "360"], "answer": 1},
+    {"question": "Solve: 3x - 9 = 0", "options": ["0", "3", "-3", "9"], "answer": 1},
+    {"question": "Which number is prime?", "options": ["51", "57", "61", "63"], "answer": 2},
+    {"question": "What is the square root of 144?", "options": ["10", "11", "12", "14"], "answer": 2},
+    {"question": "What is 2/5 as a percentage?", "options": ["20%", "25%", "40%", "45%"], "answer": 2},
+    {"question": "What is the value of pi rounded to 2 decimals?", "options": ["3.12", "3.14", "3.16", "3.18"], "answer": 1},
+    {"question": "How many sides does a hexagon have?", "options": ["5", "6", "7", "8"], "answer": 1},
+    {"question": "What is 9 squared?", "options": ["18", "72", "81", "99"], "answer": 2}
+  ],
+  "Physics": [
+    {"question": "SI unit of force?", "options": ["Joule", "Watt", "Newton", "Pascal"], "answer": 2},
+    {"question": "Speed of light (approx)?", "options": ["3x10^6 m/s", "3x10^8 m/s", "3x10^10 m/s", "3x10^5 m/s"], "answer": 1},
+    {"question": "Which of these is a vector?", "options": ["Mass", "Temperature", "Velocity", "Energy"], "answer": 2},
+    {"question": "Newton's second law?", "options": ["F = ma", "E = mc^2", "P = VI", "v = d/t"], "answer": 0},
+    {"question": "Increasing a pendulum's mass changes its period?", "options": ["Increases", "Decreases", "No change", "Doubles"], "answer": 2},
+    {"question": "What is the unit of electric current?", "options": ["Volt", "Ohm", "Ampere", "Watt"], "answer": 2},
+    {"question": "What force keeps planets in orbit?", "options": ["Magnetism", "Friction", "Gravity", "Tension"], "answer": 2},
+    {"question": "Sound travels fastest in which medium?", "options": ["Air", "Water", "Vacuum", "Steel"], "answer": 3},
+    {"question": "What is the freezing point of water in Celsius?", "options": ["-10", "0", "10", "32"], "answer": 1},
+    {"question": "Which law states energy cannot be created or destroyed?", "options": ["Newton's first law", "Ohm's law", "Law of conservation of energy", "Law of gravity"], "answer": 2}
+  ],
+  "Sport": [
+    {"question": "Players per team in football at kickoff?", "options": ["9", "10", "11", "12"], "answer": 2},
+    {"question": "Summer Olympics happen every how many years?", "options": ["2", "3", "4", "5"], "answer": 2},
+    {"question": "Points for a free throw in basketball?", "options": ["1", "2", "3", "4"], "answer": 0},
+    {"question": "Most FIFA World Cup titles?", "options": ["Germany", "Italy", "Argentina", "Brazil"], "answer": 3},
+    {"question": "Length of an Olympic swimming pool?", "options": ["25m", "50m", "75m", "100m"], "answer": 1},
+    {"question": "How many players on a volleyball team on court?", "options": ["5", "6", "7", "8"], "answer": 1},
+    {"question": "In tennis, what is a score of zero called?", "options": ["Love", "Deuce", "Ace", "Fault"], "answer": 0},
+    {"question": "How many rings are on the Olympic flag?", "options": ["4", "5", "6", "7"], "answer": 1},
+    {"question": "What sport uses a shuttlecock?", "options": ["Tennis", "Squash", "Badminton", "Table tennis"], "answer": 2},
+    {"question": "How long is a marathon (approx)?", "options": ["21 km", "32 km", "42 km", "50 km"], "answer": 2}
+  ]
+}
