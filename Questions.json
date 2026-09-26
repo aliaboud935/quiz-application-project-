@@ -11,7 +11,7 @@
     {"question": "How many sides does a hexagon have?", "options": ["5", "6", "7", "8"], "answer": 1},
     {"question": "What is 9 squared?", "options": ["18", "72", "81", "99"], "answer": 2}
   ],
-  "Physics": [
+    "Physics": [
     {"question": "SI unit of force?", "options": ["Joule", "Watt", "Newton", "Pascal"], "answer": 2},
     {"question": "Speed of light (approx)?", "options": ["3x10^6 m/s", "3x10^8 m/s", "3x10^10 m/s", "3x10^5 m/s"], "answer": 1},
     {"question": "Which of these is a vector?", "options": ["Mass", "Temperature", "Velocity", "Energy"], "answer": 2},
@@ -34,5 +34,5 @@
     {"question": "How many rings are on the Olympic flag?", "options": ["4", "5", "6", "7"], "answer": 1},
     {"question": "What sport uses a shuttlecock?", "options": ["Tennis", "Squash", "Badminton", "Table tennis"], "answer": 2},
     {"question": "How long is a marathon (approx)?", "options": ["21 km", "32 km", "42 km", "50 km"], "answer": 2}
-  ]
+  ] 
 }
